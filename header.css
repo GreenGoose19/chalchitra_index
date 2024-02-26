@@ -1,0 +1,107 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+#nav{
+    height: 128px;
+    background-color: black;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    
+}
+
+#bar{
+    text-decoration: none;
+   color: #f6f6f6;
+   cursor: pointer;
+   justify-content: center;
+   margin-right: 30px;
+   font-family: Arial,Helvetica,sans-serif;
+   font-size: 15px;
+  
+}
+
+#bar:hover{
+   color: #feffc1;
+
+}
+#logo{
+    margin-right: 100px;
+
+}
+.content{
+    background-color:  	#f5f5f5; 
+   
+}
+h2{
+    font-size: 56px;
+    font-family: sans-serif;
+    color:#281839;
+    margin-top: 70px;
+}
+p{
+    line-height: 40px;
+    font-family: Arial,Helvetica,sans-serif;
+    color: #281839;
+    font-size: 18px;
+}
+.header-nav{
+    justify-content: center;
+    align-content: center;
+    display: flex;
+    
+}
+.para {
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 0 270px; /* Adjust the left and right padding as needed */
+    margin-top: 20px; /* Add margin-top for spacing between h2 and para */
+    
+    
+}
+footer{
+    height: 180px;
+    background-color: black;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+#fbar{
+    text-decoration: none;
+    color: #f6f6f6;
+    cursor: pointer;
+    margin-right: 75px;
+    font-size: 20px;
+}
+#fbar:hover{
+    color: #feffc1;
+}
+.social{
+    margin-top: 40px;
+}
+.social-icon{
+    color: black;
+    padding: 10px;
+    background-color: #f6f6f6;
+    border-radius: 50%;
+}
+.last{
+    color: #f6f6f6;
+    display: inline-block;
+    margin-left: 320px;
+    
+}
+h3{
+    font-family: Arial,Helvetica,sans-serif;
+    font-size: 12px;
+}
+.social-icon:hover{
+    color: #f6f6f6;
+    padding: 10px;
+    background-color:  black;
+    border-radius: 50%;
+}
+
